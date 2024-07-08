@@ -1,5 +1,6 @@
 public abstract class Vehicle implements Serviceable {
 
+
     private String modelName;
     private int wheelsCount;
 
